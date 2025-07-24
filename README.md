@@ -6,8 +6,9 @@ Hi, I'm Mayank 👋
 
 💼 What I Know:
 
-Frontend: React.js, HTML, CSS, JavaScript, Bootstrap  
-Backend: Node.js, Express.js  
-Database: MongoDB, mySQL   
-Tools: Git, GitHub, Postman  
+- **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Tools**: Git, GitHub, Postman  
+
 📫 How to reach me: mayankkapila72@gmail.com🔗
