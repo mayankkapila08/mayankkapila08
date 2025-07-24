@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**mayankkapila08/mayankkapila08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mayank 👋
 
-Here are some ideas to get you started:
+🎓 Final Year B.Tech Student | 💻 MERN Stack Developer
+🚀 I enjoy building full-stack web applications using React, Node.js, Express, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I Know:
+
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB, mySQL 
+Tools: Git, GitHub, Postman
+📫 How to reach me: mayankkapila72@gmail.com🔗
